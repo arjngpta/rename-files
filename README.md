@@ -1,0 +1,1 @@
+This is a repository of some Python scripts I have created while learning how to program with Python.
